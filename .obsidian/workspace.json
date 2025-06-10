@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "de7272cd9a8ff332",
+    "type": "split",
+    "children": [
+      {
+        "id": "3db99aba6678622f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bbbf112f25883e2",
+            "type": "leaf",
+            "state": {
+              "type": "jupyter-view",
+              "state": {
+                "file": "Java/1 - Tipos de variáveis em java.ipynb"
+              },
+              "icon": "none",
+              "title": "1 - Tipos de variáveis em java.ipynb"
+            }
+          },
+          {
+            "id": "ffe584cec0446b44",
+            "type": "leaf",
+            "state": {
+              "type": "jupyter-view",
+              "state": {
+                "file": "Java/2 - Estruturas Condicionais em Java.ipynb"
+              },
+              "icon": "none",
+              "title": "2 - Estruturas Condicionais em Java.ipynb"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "403e4a68115c0676",
+    "type": "split",
+    "children": [
+      {
+        "id": "b391d916f66e7b0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc3e805250a07018",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e21b431375251d48",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6ad4441ea20b3814",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "35e492d8bcbb8028",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a63367f7ad52c8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a56dc8adc0a97cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6b1df0834af2c749",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "fcd260795895e518",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7e83afece4469e12",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": false,
+      "jupyter:Start Jupyter Server": false,
+      "jupyter:Create Jupyter Notebook": false
+    }
+  },
+  "active": "ffe584cec0446b44",
+  "lastOpenFiles": [
+    "Java/Java content.md",
+    "Java/swith-caseTemplate.ipynb",
+    "Java/scannerTemplate.ipynb",
+    "Java/forTemplate.ipynb",
+    "Java/baseSintaxe.ipynb",
+    "forTemplate.ipynb",
+    "Java/3 - Estruturas de repeticao.ipynb",
+    "baseSintaxe.ipynb",
+    "Java/1 - Tipos de variáveis em java.ipynb",
+    "swith-caseTemplate.ipynb",
+    "scannerTemplate.ipynb"
+  ]
+}

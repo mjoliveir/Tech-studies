@@ -1,0 +1,8 @@
+[[1 - Tipos de variáveis em java.ipynb]]
+[[2 - Estruturas Condicionais em Java.ipynb]]
+[[swith-caseTemplate.ipynb]]
+[[scannerTemplate.ipynb]]
+[[forTemplate.ipynb]]
+[[3 - Estruturas de repeticao.ipynb]]
+[[baseSintaxe.ipynb]]
+[[]]
