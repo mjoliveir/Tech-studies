@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3db99aba6678622f",
+        "id": "26a1c492960d6a9b",
         "type": "tabs",
         "children": [
           {
-            "id": "7bbbf112f25883e2",
+            "id": "cb696ca2f38fa5f9",
             "type": "leaf",
             "state": {
-              "type": "jupyter-view",
-              "state": {
-                "file": "Java/1 - Tipos de variáveis em java.ipynb"
-              },
-              "icon": "none",
-              "title": "1 - Tipos de variáveis em java.ipynb"
-            }
-          },
-          {
-            "id": "ffe584cec0446b44",
-            "type": "leaf",
-            "state": {
-              "type": "jupyter-view",
-              "state": {
-                "file": "Java/2 - Estruturas Condicionais em Java.ipynb"
-              },
-              "icon": "none",
-              "title": "2 - Estruturas Condicionais em Java.ipynb"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,19 +164,20 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "ffe584cec0446b44",
+  "active": "cb696ca2f38fa5f9",
   "lastOpenFiles": [
+    "Java/Java content.md",
+    "Java/Roadmap Java Learning.md",
+    "Java/Tipos primitivos.md",
+    "Java/2 - Estruturas Condicionais em Java.ipynb",
+    "Java/1 - Tipos de variáveis em java.ipynb",
+    "Untitled",
     "Java/Aula4N_CAPGEMINI.java",
     "Java/charAT.ipynb",
     "charAT.ipynb",
     "Aula4N_CAPGEMINI.java",
     "Java/Aula4M_CAPGEMINI.java",
     "Aula4M_CAPGEMINI.java",
-    "Java/Java content.md",
-    "Java/swith-caseTemplate.ipynb",
-    "Java/scannerTemplate.ipynb",
-    "Java/forTemplate.ipynb",
-    "Java/baseSintaxe.ipynb",
-    "forTemplate.ipynb"
+    "Java/swith-caseTemplate.ipynb"
   ]
 }

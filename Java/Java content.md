@@ -5,4 +5,7 @@
 [[forTemplate.ipynb]]
 [[3 - Estruturas de repeticao.ipynb]]
 [[baseSintaxe.ipynb]]
-[[]]
+[[charAT.ipynb]]
+[[Ex01.ipynb]]
+[[Roadmap Java Learning]]
+[[Tipos primitivos]]

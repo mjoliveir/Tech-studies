@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exec {
+public class Aula4N_CAPGEMINI {
     public static void main(String[] args) {
         // Faça um alg que leia 3 números inteiros e retorne: positivo, negativo etc
         Scanner leitorScanner = new Scanner(System.in);
