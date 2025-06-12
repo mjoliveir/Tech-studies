@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200.5
   },
   "right": {
     "id": "35e492d8bcbb8028",
@@ -166,18 +166,18 @@
   },
   "active": "cb696ca2f38fa5f9",
   "lastOpenFiles": [
-    "Java/Java content.md",
-    "Java/Roadmap Java Learning.md",
     "Java/Tipos primitivos.md",
-    "Java/2 - Estruturas Condicionais em Java.ipynb",
+    "Java/swith-caseTemplate.ipynb",
+    "Java/scannerTemplate.ipynb",
+    "Java/Java content.md",
+    "Java/charAT.ipynb",
     "Java/1 - Tipos de variáveis em java.ipynb",
+    "Java/0 - Roadmap Java Learning.md",
+    "Java/2 - Estruturas Condicionais em Java.ipynb",
     "Untitled",
     "Java/Aula4N_CAPGEMINI.java",
-    "Java/charAT.ipynb",
     "charAT.ipynb",
     "Aula4N_CAPGEMINI.java",
-    "Java/Aula4M_CAPGEMINI.java",
-    "Aula4M_CAPGEMINI.java",
-    "Java/swith-caseTemplate.ipynb"
+    "Java/Aula4M_CAPGEMINI.java"
   ]
 }

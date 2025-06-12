@@ -6,6 +6,6 @@
 [[3 - Estruturas de repeticao.ipynb]]
 [[baseSintaxe.ipynb]]
 [[charAT.ipynb]]
-[[Ex01.ipynb]]
-[[Roadmap Java Learning]]
+[[Ex022.ipynb]]
+[[0 - Roadmap Java Learning]]
 [[Tipos primitivos]]
