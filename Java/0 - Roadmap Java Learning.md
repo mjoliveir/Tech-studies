@@ -17,7 +17,7 @@
 - Entrada e saída de dados (Scanner, System.in, System.out) ([[scannerTemplate.ipynb]])
     
 
-**2. Programação Orientada a Objetos (POO)**
+**2. Programação Orientada a Objetos (POO)** [[Programação Orientada a Objetos (POO) em Java]]
 
 - Classes e objetos
     

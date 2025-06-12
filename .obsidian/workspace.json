@@ -16,8 +16,19 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "750c668066f4d922",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,15 +175,16 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "cb696ca2f38fa5f9",
+  "active": "750c668066f4d922",
   "lastOpenFiles": [
+    "Java/Java content.md",
+    "Java/Programação Orientada a Objetos (POO) em Java.md",
+    "Java/0 - Roadmap Java Learning.md",
     "Java/Tipos primitivos.md",
     "Java/swith-caseTemplate.ipynb",
     "Java/scannerTemplate.ipynb",
-    "Java/Java content.md",
     "Java/charAT.ipynb",
     "Java/1 - Tipos de variáveis em java.ipynb",
-    "Java/0 - Roadmap Java Learning.md",
     "Java/2 - Estruturas Condicionais em Java.ipynb",
     "Untitled",
     "Java/Aula4N_CAPGEMINI.java",
