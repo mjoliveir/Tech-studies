@@ -4,7 +4,7 @@ A Programação Orientada a Objetos (POO) é um paradigma de programação que o
 
 ## Conceitos Fundamentais
 
-### 1. Classe
+### 1. Classe[[Poo - Classes]]
 
 Uma **classe** é um molde para criar objetos. Ela define os atributos e métodos que os objetos daquela classe terão.
 

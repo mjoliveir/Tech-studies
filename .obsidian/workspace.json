@@ -6,19 +6,29 @@
       {
         "id": "26a1c492960d6a9b",
         "type": "tabs",
+        "dimension": 80.54474708171206,
         "children": [
           {
-            "id": "cb696ca2f38fa5f9",
+            "id": "750c668066f4d922",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "jupyter-view",
+              "state": {
+                "file": "Java/scannerTemplate.ipynb"
+              },
+              "icon": "none",
+              "title": "scannerTemplate.ipynb"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "07a52439a801b642",
+        "type": "tabs",
+        "dimension": 19.45525291828794,
+        "children": [
           {
-            "id": "750c668066f4d922",
+            "id": "3edab1d2892e40e7",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -27,8 +37,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,21 +184,22 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "750c668066f4d922",
+  "active": "3edab1d2892e40e7",
   "lastOpenFiles": [
-    "Java/Java content.md",
-    "Java/Programação Orientada a Objetos (POO) em Java.md",
+    "Java/4 - Programação Orientada a Objetos (POO) em Java.md",
+    "Java/scannerTemplate.ipynb",
+    "Java/Classe_(programação).pdf",
+    "Java/Poo - Classes.md",
     "Java/0 - Roadmap Java Learning.md",
+    "Java/Java content.md",
     "Java/Tipos primitivos.md",
     "Java/swith-caseTemplate.ipynb",
-    "Java/scannerTemplate.ipynb",
     "Java/charAT.ipynb",
     "Java/1 - Tipos de variáveis em java.ipynb",
     "Java/2 - Estruturas Condicionais em Java.ipynb",
     "Untitled",
     "Java/Aula4N_CAPGEMINI.java",
     "charAT.ipynb",
-    "Aula4N_CAPGEMINI.java",
-    "Java/Aula4M_CAPGEMINI.java"
+    "Aula4N_CAPGEMINI.java"
   ]
 }

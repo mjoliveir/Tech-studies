@@ -6,7 +6,7 @@
     
 - Estrutura de um programa Java ([[baseSintaxe.ipynb]])
     
-- Tipos de dados primitivos ([[1 - Tipos de variáveis em java.ipynb]])
+- Tipos de dados primitivos ([[1 - Tipos de variáveis em java.ipynb]]) [[Tipos primitivos]]
     
 - Operadores (aritméticos, relacionais, lógicos) ( [[1 - Tipos de variáveis em java.ipynb]])
     
@@ -17,11 +17,11 @@
 - Entrada e saída de dados (Scanner, System.in, System.out) ([[scannerTemplate.ipynb]])
     
 
-**2. Programação Orientada a Objetos (POO)** [[Programação Orientada a Objetos (POO) em Java]]
+**2. Programação Orientada a Objetos (POO)** [[4 - Programação Orientada a Objetos (POO) em Java]]
 
-- Classes e objetos
+- Classes e objetos [[Poo - Classes]]
     
-- Métodos e construtores
+- Métodos e construtores[[Poo - Classes]]
     
 - Encapsulamento
     
