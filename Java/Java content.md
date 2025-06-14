@@ -11,3 +11,5 @@
 [[Tipos primitivos]]
 [[4 - Programação Orientada a Objetos (POO) em Java]]
 [[Poo - Classes]]
+[[Encapsulamento na Programacao Orientada a Objetos (POO)]]
+
