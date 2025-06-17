@@ -48,7 +48,7 @@ public class Pessoa {
 }
 ```
 
-### 4. Herança
+### 4. [[Herança]]
 
 A **herança** permite que uma classe herde atributos e métodos de outra classe, promovendo o reuso de código.
 
