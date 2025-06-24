@@ -6,6 +6,7 @@
       {
         "id": "07a52439a801b642",
         "type": "tabs",
+        "dimension": 21.36842105263158,
         "children": [
           {
             "id": "3edab1d2892e40e7",
@@ -20,9 +21,16 @@
               "icon": "lucide-file",
               "title": "Java content"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "8e559a0fc3a378e2",
+        "type": "tabs",
+        "dimension": 78.63157894736842,
+        "children": [
           {
-            "id": "56edf984748af1bc",
+            "id": "bd928427ad26976b",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -31,8 +39,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,13 +186,13 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "56edf984748af1bc",
+  "active": "bd928427ad26976b",
   "lastOpenFiles": [
+    "Java/Java content.md",
     "Java/1 - Tipos de variáveis em java.ipynb",
     "Java/Herança.md",
     "Java/4 - Programação Orientada a Objetos (POO) em Java.md",
     "Java/setAndGetTemplate.md",
-    "Java/Java content.md",
     "Java/Ex022.ipynb",
     "Java/Encapsulamento na Programacao Orientada a Objetos (POO).md",
     "Programa-Start-Capgemini/LPA3_START_1CAPGEMNI/ex22/app/build/classes/java/main/com/example/ex22/App.class",
@@ -196,7 +203,6 @@
     "Programa-Start-Capgemini/LPA3_START_1CAPGEMNI/ex22/app/src/test/java/com/example/ex22",
     "Programa-Start-Capgemini/LPA3_START_1CAPGEMNI/ex22/app/src/main/java/com/example/ex22",
     "Programa-Start-Capgemini/LPA3_START_1CAPGEMNI/ex22/app/build/generated/sources/headers/java/main",
-    "Programa-Start-Capgemini/LPA3_START_1CAPGEMNI/ex22/app/build/classes/java/main/com/example",
     "Programa-Start-Capgemini/README.md",
     "Java/Poo - Classes.md",
     "Java/0 - Roadmap Java Learning.md",
