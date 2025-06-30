@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 434
   },
   "right": {
     "id": "35e492d8bcbb8028",
@@ -166,19 +165,20 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "50081e1cc5563afc",
+  "active": "dc3e805250a07018",
   "lastOpenFiles": [
+    "Java/swith-caseTemplate.ipynb",
+    "Java/AulaPoo5b/app/build/tmp/compileJava/compileTransaction/stash-dir/contaBanco.class.uniqueId1",
+    "Java/AulaPoo5b/app/build/tmp/compileJava/compileTransaction/stash-dir/App.class.uniqueId0",
     "Java/AulaPoo5b/app/build/classes/java/main/com/example/AulaPoo5b/contaBanco.class",
     "Java/AulaPoo5b/app/build/classes/java/main/com/example/AulaPoo5b/App.class",
-    "Java/AulaPoo5b/app/build/tmp/compileJava/compileTransaction/stash-dir/contaBanco.class.uniqueId1",
+    "Java/AulaPoo5b/app/bin/test/com/example/AulaPoo5b/AppTest.class",
+    "Java/AulaPoo5b/app/bin/test/com/example/AulaPoo5b",
+    "Java/AulaPoo5b/app/bin/test/com/example",
+    "Java/AulaPoo5b/app/bin/test/com",
+    "Java/AulaPoo5b/app/bin/main/com/example/AulaPoo5b/contaBanco.class",
+    "Java/AulaPoo5b/app/bin/main/com/example/AulaPoo5b/App.class",
     "Java/Java content.md",
-    "Java/2 - Estruturas Condicionais em Java.ipynb",
-    "Java/3 - Estruturas de repeticao.ipynb",
-    "Java/AulaPoo5b/app/build/tmp/compileJava/compileTransaction/stash-dir/App.class.uniqueId0",
-    "Java/AulaPoo5b/app/src/main/java/com/example/AulaPoo5b/contaBanco.java",
-    "Java/AulaPoo5b/app/build/classes/java/main/contaBanco.class",
-    "Java/AulaPoo5b/app/build/tmp/compileJava/compileTransaction/stash-dir/contaBanco.class.uniqueId0",
-    "Java/AulaPoo5b/app/build/tmp/compileJava/compileTransaction/stash-dir",
     "Java/0 - Roadmap Java Learning.md",
     "Java/Métodos Especiais.md",
     "Java/Poo - Classes.md",

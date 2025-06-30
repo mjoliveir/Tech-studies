@@ -24,7 +24,15 @@ public class contaBanco {
     public int getNumConta() {
         return numConta;
     }
-
+    
+    public boolean getStatus(){
+        return statusConta;
+    }
+    
+    public void setStatusConta(boolean statusConta){
+        this.statusConta = statusConta;
+    }
+    
     public void setNumConta(int numConta) {
         this.numConta = numConta;
     }
@@ -68,16 +76,34 @@ public contaBanco(){
 }
 //metodos de abertura e fechamento de contas    
 public void abrirConta(String tipoDeConta, String nomeDono){
-    this.tipoConta = tipoDeConta;
-    this.donoConta = nomeDono;
-    this.statusConta = true;
-    //algoritmos de acrescimos
-    if (tipoConta == "cc"){
+    this.setTipoConta(tipoDeConta);
+    this.setDonoConta(nomeDono);
+    switch (tipoDeConta){
+            case "cc":
+                this.setSaldoConta(50);
+                break;
+            case "cp":
+                this.setSaldoConta(150);
+                break;
+            default:
+                System.out.println("Opção de tipo de conta inválida."
+                        + " Escolha entre conta corrente e conta poupança");
+                break;
+    }
+    if (this.getTipoConta() == "cc"|| this.getTipoConta() == "cp"){
+        this.setStatusConta(true);
+    } else {
+        this.setStatusConta(false);
+    }
+    }
+        
+    /*if (tipoConta == "cc"){       Essa pequena linha de codigo expressa a mesma 
+    funçao da de cima, no entanto sem o puilar de encapsulamento da poo
         this.saldoConta = this.saldoConta + 50;
     } else if (tipoConta == "cp"){
         this.saldoConta = this.saldoConta + 150;
-    }
-}
+    }*/
+
 public void fecharConta(){
     if (this.saldoConta > 0){
         System.out.println("Você ainda possui saldo e deve retirá-lo para fechar sua conta.");
@@ -111,10 +137,16 @@ public void pagarMensalidade(){
 
 //metodo de visão geral da conta
 public void verConta(){
-    System.out.println("-----Visão geral da conta-----");
-    System.out.println("Número da conta: " + this.getNumConta());
-    System.out.println("Tipo de conta: " + this.getTipoConta());
-    System.out.println("Dono da conta: " + this.getDonoConta());
-    System.out.println("Saldo da conta: R$:" + this.getSaldoConta());
+    System.out.println("|  -----Visão geral da conta-----  |");
+    System.out.println("|  Estado da conta: " + this.getStatus() + "          |");
+    System.out.println("|  Número da conta: " + this.getNumConta()+ "              |");
+    if (this.getTipoConta() != "cp" && this.getTipoConta() != "cc"){
+        System.out.println("|  **Tipo de conta inválida**      |");
+    }else {
+        System.out.println("|  Tipo de conta: " + this.getTipoConta() + "               |");
+    }
+    System.out.println("|  Dono da conta: " + this.getDonoConta() + "    |");
+    System.out.println("|  Saldo da conta: R$:" + this.getSaldoConta() + "           |");
+    System.out.println("------------------------------------");
 }
 }
