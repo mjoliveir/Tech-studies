@@ -29,7 +29,7 @@ public class contaBanco {
         return statusConta;
     }
     
-    public void setStatusConta(boolean statusConta){
+    public void setStatus(boolean statusConta){
         this.statusConta = statusConta;
     }
     
@@ -71,8 +71,8 @@ public class contaBanco {
 
 //metodo construtor
 public contaBanco(){
-    this.statusConta = false;
-    this.saldoConta = 0;
+    this.setStatus(false);
+    this.setSaldoConta(0);
 }
 //metodos de abertura e fechamento de contas    
 public void abrirConta(String tipoDeConta, String nomeDono){
@@ -91,9 +91,9 @@ public void abrirConta(String tipoDeConta, String nomeDono){
                 break;
     }
     if (this.getTipoConta() == "cc"|| this.getTipoConta() == "cp"){
-        this.setStatusConta(true);
+        this.setStatus(true);
     } else {
-        this.setStatusConta(false);
+        this.setStatus(false);
     }
     }
         
@@ -105,12 +105,12 @@ public void abrirConta(String tipoDeConta, String nomeDono){
     }*/
 
 public void fecharConta(){
-    if (this.saldoConta > 0){
+    if (this.getSaldoConta() > 0){
         System.out.println("Você ainda possui saldo e deve retirá-lo para fechar sua conta.");
-    }else if (this.saldoConta < 0){
+    }else if (this.getSaldoConta() < 0){
         System.out.println("Você possui debitos e atualmente não pode fechar sua conta");
     }else
-        this.statusConta = false;
+        this.setStatus(false);
 }
 
 
