@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 434
+    "width": 298
   },
   "right": {
     "id": "35e492d8bcbb8028",
@@ -165,7 +165,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "dc3e805250a07018",
+  "active": "50081e1cc5563afc",
   "lastOpenFiles": [
     "Java/AulaPoo5b/app/bin/main/com/example/AulaPoo5b/contaBanco.class",
     "Java/AulaPoo5b/app/bin/main/com/example/AulaPoo5b/App.class",
