@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/Roadmap Angular.md",
+                "file": "Agile-Thinking/Kanban.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roadmap Angular"
+              "title": "Kanban"
             }
           }
         ]
@@ -172,6 +172,7 @@
   "active": "50081e1cc5563afc",
   "lastOpenFiles": [
     "Angular/Roadmap Angular.md",
+    "Agile-Thinking/Kanban.md",
     "Angular",
     "Java/AulaPoo5b/app/bin/main/com/example/AulaPoo5b/contaBanco.class",
     "Java/AulaPoo5b/app/bin/main/com/example/AulaPoo5b/App.class",
