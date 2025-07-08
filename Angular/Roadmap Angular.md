@@ -13,7 +13,7 @@ JavaScript
   - ES6+ (let/const, arrow functions)
   - Promises e async/await
   - DOM Manipulation
-
+teste
 TypeScript
   - Tipagem básica
   - Interfaces e classes
