@@ -11,10 +11,14 @@
             "id": "50081e1cc5563afc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Angular/Roadmap Angular.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Roadmap Angular"
             }
           }
         ]
@@ -159,14 +163,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
       "obsidian42-brat:BRAT": false,
       "jupyter:Start Jupyter Server": false,
-      "jupyter:Create Jupyter Notebook": false,
-      "publish:Publish changes...": false
+      "jupyter:Create Jupyter Notebook": false
     }
   },
   "active": "50081e1cc5563afc",
   "lastOpenFiles": [
+    "Angular/Roadmap Angular.md",
+    "Angular",
     "Java/AulaPoo5b/app/bin/main/com/example/AulaPoo5b/contaBanco.class",
     "Java/AulaPoo5b/app/bin/main/com/example/AulaPoo5b/App.class",
     "Java/AulaPoo5b/app/bin/main/com/example",
@@ -176,8 +182,6 @@
     "Java/AulaPoo4b/app/bin/main/com/example/AulaPoo4b",
     "Java/swith-caseTemplate.ipynb",
     "Java/AulaPoo5b/app/build/tmp/compileJava/compileTransaction/stash-dir/contaBanco.class.uniqueId1",
-    "Java/AulaPoo5b/app/build/tmp/compileJava/compileTransaction/stash-dir/App.class.uniqueId0",
-    "Java/AulaPoo5b/app/build/classes/java/main/com/example/AulaPoo5b/contaBanco.class",
     "Java/Java content.md",
     "Java/0 - Roadmap Java Learning.md",
     "Java/Métodos Especiais.md",
