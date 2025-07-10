@@ -18,7 +18,7 @@ public class Aula4M_CAPGEMINI {
                 break;
             } else {
                 totAlunos = totAlunos - 1;
-            };
+            };1
         }
     }         
 }
