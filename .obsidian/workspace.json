@@ -21,10 +21,14 @@
             "id": "d94321b6692f0daa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Agile-Thinking/Product Backlog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Product Backlog"
             }
           }
         ],
