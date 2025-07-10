@@ -9,7 +9,7 @@ Aumentar a autônomia do time Scrum;
 
 ## Responsabilidades
 O Scrum master é responsável por:
-	Garantir **valores** (vide valores em [[Scrum]])
+	Garantir **valores** (vide valores em [[1 - Scrum]])
 	Remover **barreiras** (essas serão ouvidas nos **dailys**, e tratadas como **impedimentos**)
 	Dar **feedbacks**.
 	*a Pessoa Scrum Master apenas orienta e sugere ações dentro do projeto, nunca toma decisões. Essas são de responsabilidade do PO (vide [[Product Owner]])*
