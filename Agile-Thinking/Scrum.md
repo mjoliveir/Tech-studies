@@ -25,3 +25,4 @@ Coragem.
 
 ## Elementos centrais do Scrum
 [[Product Backlog]]
+[[Sprint Planning]]
