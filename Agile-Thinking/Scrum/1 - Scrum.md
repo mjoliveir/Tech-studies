@@ -24,5 +24,10 @@ Coragem.
 [[Time de desenvolvimento]].
 
 ## Elementos centrais do Scrum
-[[Product Backlog]]
-[[Sprint Planning]]
+[[Product Backlog]];
+[[Sprint Planning]].
+
+## Eventos
+[[Sprint]];
+[[Sprint Planning]];
+E alguns outros..
