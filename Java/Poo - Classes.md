@@ -10,7 +10,7 @@ Uma classe em Java é composta por:
     
 - **Métodos**: funções que representam o comportamento do objeto.
     
-- **Construtor**: método especial chamado ao instanciar o objeto.
+- **Construtor**: método especial chamado ao instanciar o objeto.a
     
 
 ### Exemplo Básico
