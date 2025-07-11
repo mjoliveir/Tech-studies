@@ -49,3 +49,5 @@ O objetivo é fazer com que as tarefas avancem de forma constante e sem bloqueio
     
 
 Cada organização pode personalizar o quadro conforme a necessidade.
+
+#Agile 

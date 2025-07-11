@@ -8,4 +8,4 @@ Um time de desenvolvimento Scrum é responsável em:
 		Coordenar e executar seu próprio trabalho (Trata-se de **autogerenciamento**, vide [[Scrum Master]])
 		Garantir a melhoria contínua do produto (a ideia principal do Scrum é **agregar o máximo de valor ao produto**)
 		Comunicar impedimentos (Isso será feito no daily, vide [[1 - Scrum]])
-		
+#Agile 

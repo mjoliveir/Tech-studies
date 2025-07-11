@@ -12,3 +12,6 @@ Para realizar corretamente uma sprint planning devemos realizar as seguintes eta
 		Definir o trabalho a ser realizado na sprint
 	Plano de ação
 		Definir tarefas e responsabilidades.
+	
+
+#Agile 

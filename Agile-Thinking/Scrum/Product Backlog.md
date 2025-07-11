@@ -15,3 +15,4 @@ O conteúdo do product backlog reúne:
 
 *O product backlog sempre é mantido e priorizado pelo PO (vide responsábilidades do PO em: [[Product Owner]])*.
 *No Product backlog temos tamém priorização de sprints, sendo realizadas primeiro as prioritas, essas por sua vez serão definidas pelo PO e o cliente.*
+#Agile 

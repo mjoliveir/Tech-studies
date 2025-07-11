@@ -11,3 +11,4 @@ O incremento e, por consequência, a string são válidos quando:
 ## Relacionados:
 [[Sprint Planning]]
 [[Sprint Review and Retrospective]]
+#Agile 

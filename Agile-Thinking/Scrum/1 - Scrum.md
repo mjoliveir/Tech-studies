@@ -31,3 +31,5 @@ Coragem.
 [[Sprint]];
 [[Sprint Planning]];
 E alguns outros..
+
+#Agile

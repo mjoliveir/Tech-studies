@@ -5,3 +5,4 @@ Conciliar o pedido do cliente com a capacidade de entrega da equipe
 Gerenciar o *product backlog*
 Iniciar e/ou cancelar uma sprint
 *Ele também pode delegar essas tarefas a outros, no entanto, fazê-lo não o torna alheio da responsabilidade do produto final e da tarefa em específico.*
+#Agile 
