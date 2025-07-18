@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container {
+    display: flex;
+    align-items: center;
+}
+
+body {
+    box-sizing: border-box;
+    height: 100vh; 
+    background-color: black;
+    color : white;
+}
+
+.destaque-texto {
+    color: rgb(39, 86, 255);
+}
