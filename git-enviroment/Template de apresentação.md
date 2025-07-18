@@ -27,3 +27,5 @@
 [The GitHub Story: How a Side Project Changed Software Development Forever]([The GitHub Story: How a Side Project Changed Software Development Forever - Adil Sadqi](https://www.asadqi.com/github-history/))
 [Hello, GitHub | The Origin of THE LARGEST PLATFORM FOR PROGRAMMERS - God of Programming]([Hello, GitHub | The Origin of THE LARGEST PLATFORM FOR PROGRAMMERS - God of Programming](https://godofprogramming.com/en/blog/hello/the-origin-of-github/)
 Microsoft compra GitHub por US$ 7,5 bilhões e anuncia mudanças
+
+#git 

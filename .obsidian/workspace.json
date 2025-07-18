@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cd2c502f9921a2c0",
+        "id": "2fa70b4e14a79310",
         "type": "tabs",
         "children": [
           {
-            "id": "a399f266678612ba",
+            "id": "73ab38b58e980123",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,8 +16,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "6ea7aad9bea0eb88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git-enviroment/Git Flow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git Flow"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,10 +181,25 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "a399f266678612ba",
+  "active": "6ea7aad9bea0eb88",
   "lastOpenFiles": [
+    "FlexBox.md",
+    "Pasted image 20250718165051.png",
+    "html-course/Tags em HTML.md",
+    "html-course/CSS class.md",
+    "html-course/Redirecinamento com a href.md",
+    "html-course/img/Pasted image 20250718122815.png",
+    "git-enviroment/Template de apresentação.md",
+    "html-course/Tag semantica.md",
+    "html-course/Reset CSS.md",
+    "html-course/Height e box sizing.md",
+    "html-course/img/3dgifmaker83344.gif",
+    "html-course/style.css",
+    "html-course/img",
+    "html-course/img/Imagem.png",
+    "html-course/index.html",
+    "html-course",
     "git-enviroment/Git Flow.md",
-    "Template de apresentação.md",
     "[Hello,.md",
     "[From.md",
     "[Google.md",
@@ -180,10 +210,6 @@
     "git-enviroment/img/Pasted image 20250712163611.png",
     "git-enviroment/img/Pasted image 20250712172635.png",
     "git-enviroment/img/Pasted image 20250712163339.png",
-    "git-enviroment/img/Pasted image 20250711203929.png",
-    "git-enviroment/img/Pasted image 20250711203813.png",
-    "git-enviroment/img/Pasted image 20250711145542.png",
-    "git-enviroment/img/Pasted image 20250711144922.png",
     "git-enviroment/Verificando commits  individualmente.pdf",
     "git-enviroment/Verificando commits  individualmente.md",
     "git-enviroment/img",
@@ -201,18 +227,6 @@
     "git-enviroment/Git branch.md",
     "git-enviroment",
     "https/Portas.md",
-    "https/Telnet.md",
-    "https/Metodos HTTP.md",
-    "https/Limitações do http.md",
-    "https/Introdução ao http.md",
-    "https/img",
-    "https/Domínios.md",
-    "https/HTTPS.md",
-    "https/HTTP3.md",
-    "https/As camadas da internet.md",
-    "https/Entendendo URL's.md",
-    "https",
-    "Git Enviroment/img",
-    "Git Enviroment/Nova pasta"
+    "https/Telnet.md"
   ]
 }

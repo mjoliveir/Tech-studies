@@ -36,6 +36,6 @@ public class Aula4N_CAPGEMINI {
             }
         }
 
-        leitorScanner.close(); // boa prática
+        leitorScanner.close();
     }
 }
