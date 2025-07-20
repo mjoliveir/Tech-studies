@@ -15,3 +15,4 @@ primeiro declaramos a classe na tag, depois no arquivo .css vamos colocar:
 }
 ```
 ![[Pasted image 20250718165051.png]]
+#css #html 

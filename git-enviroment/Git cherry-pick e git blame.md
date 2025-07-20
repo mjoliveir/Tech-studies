@@ -7,3 +7,5 @@ O git blame é útil em projetos grandes no qual múltiplas pessoas modificam o 
 ```
 git blame nomearquivo
 ```
+
+#git 
