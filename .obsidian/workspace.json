@@ -61,16 +61,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estilizando botões no css.md",
+                "file": "git-enviroment/Git restore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Estilizando botões no css"
+              "title": "Git restore"
+            }
+          },
+          {
+            "id": "363ec4ee1fa0a3ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Variaveis no CSS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Variaveis no CSS"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -219,11 +233,17 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "a6368565e2cd7d17",
+  "active": "363ec4ee1fa0a3ae",
   "lastOpenFiles": [
+    "git-enviroment/Git restore.md",
+    "Variaveis no CSS.md",
+    "html-course/img/joana-perfil.png",
+    "html-course/joana-perfil.png",
+    "html-course/about.html",
+    "about.html",
+    "Estilizando botões no css.md",
     "Pasted image 20250721102738.png",
     "Importando fontes no css e html.md",
-    "Estilizando botões no css.md",
     "html-course/img/image_with_transparent_background.png",
     "html-course/image_with_transparent_background.png",
     "html-course/Tags em HTML.md",
@@ -250,22 +270,16 @@
     "[From.md",
     "[Google.md",
     "().md",
-    "git-enviroment/img/Pasted image 20250714133246.png",
-    "git-enviroment/img/Pasted image 20250714132944.png",
-    "git-enviroment/img/Pasted image 20250712173508.png",
     "git-enviroment/Verificando commits  individualmente.pdf",
     "git-enviroment/Verificando commits  individualmente.md",
     "git-enviroment/img",
     "git-enviroment/Git stash.pdf",
     "git-enviroment/Git tag.md",
     "git-enviroment/Git stash.md",
-    "git-enviroment/Git restore.md",
     "git-enviroment/Git rebase.md",
     "git-enviroment/Git merge.md",
     "git-enviroment/Git log e parâmetros.md",
     "git-enviroment/Git log e parâmetros.pdf",
-    "git-enviroment/Git diff.md",
-    "git-enviroment/Git diff.pdf",
-    "git-enviroment"
+    "git-enviroment/Git diff.md"
   ]
 }
