@@ -4,6 +4,14 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Boldonse&family=Lobster&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
+:root {
+    --cor-primaria: #232f6b;
+    --cor-secundaria: #7EFAFF;
+    --cor-texto: #EBFFFB;
+    --cor-fundo: #0a121e;
+    --cor-hover: rgb(39, 106, 161);
+}  
+
 
 *{
     margin: 0;
@@ -11,11 +19,11 @@
 }
 body {
     box-sizing: border-box;
-    background-color: rgb(0, 16, 30);
-    color : white;
+    background-color: var(--cor-fundo);
+    color : var(--cor-texto);
 }
 .destaque-texto {
-    color: rgb(39, 106, 161);
+    color: var(--cor-primaria);
 }
 .container {
     display: flex;
@@ -26,6 +34,15 @@ body {
     margin-bottom: 10%;
     justify-content: space-between;
 
+}
+.containerBout {
+    display: flex;
+    align-items: center;
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 10%;
+    justify-content: space-between;
 }
 .apresentacao-titulo {
 
@@ -39,13 +56,14 @@ body {
 .textobase {
     font-size: 100%;
     font-family: "Open Sans", sans-serif;
+    margin-bottom: 2%;
 }
 
 .imgsize {
     width: 700px;
     height: 400px;
     margin-left: 5%;
-}
+}   
 
 .links {
     margin-top: 5%;
@@ -67,23 +85,30 @@ body {
     font-family: "Open Sans", sans-serif;
     text-align: center;
     transition: 1.3s;
-    border: 2px solid rgb(39, 106, 161);
+    border: 2px solid var(--cor-primaria);
 }
 .botaoDoLink:hover {
-    background-color: rgb(39, 106, 161);
+    background-color: var(--cor-primaria);
     color: white;
 }
 .header {
-    background-color: rgb(39, 106, 161);
+    background-color: var(--cor-primaria);
     padding-top: 5px;
     padding-bottom: 5px;
     display: flex;
     justify-content: center;
 }
+.LinksDoCabecalho {
+    text-decoration: none;
+    color: white;
+}
+.LinksDoCabecalho:hover {
+    color: rgb(12, 51, 83);
+}
 .rodape {
     font-family: "Open Sans", sans-serif;
     text-decoration: none;
-    background-color: rgb(39, 106, 161);
+    background-color: var(--cor-primaria);
     padding: 4px;
     padding-bottom: 1%;
     text-align: center;
@@ -111,5 +136,5 @@ body {
     text-decoration: none;
 }
 .rodape a:hover {
-    color: rgb(12, 51, 83);
+    color: var(--cor-primaria);
 }
