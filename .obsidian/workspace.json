@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5b00fc3670d4fd02",
+        "id": "7cd95e28f9b8c991",
         "type": "tabs",
         "children": [
           {
-            "id": "50081e1cc5563afc",
+            "id": "9d803f43dea302ef",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,8 +16,47 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "6ba57f445c6638a1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "1ef8165c3fc142c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "html-course/Tags em HTML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tags em HTML"
+            }
+          },
+          {
+            "id": "70baf3f6abf6e66c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Importando fontes no css e html.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Importando fontes no css e html"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,52 +205,53 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "dc3e805250a07018",
+  "active": "70baf3f6abf6e66c",
   "lastOpenFiles": [
-    "git-enviroment/img/Pasted image 20250711145542.png",
-    "git-enviroment/img/Pasted image 20250711144922.png",
-    "git-enviroment/img/Pasted image 20250711143742.png",
-    "git-enviroment/img/Pasted image 20250711144143.png",
-    "git-enviroment/img/Pasted image 20250711143601.png",
+    "html-course/img/image_with_transparent_background.png",
+    "html-course/image_with_transparent_background.png",
+    "html-course/Tags em HTML.md",
+    "Importando fontes no css e html.md",
+    "html-course/Tag semantica.md",
+    "html-course/Reset CSS.md",
+    "html-course/Height e box sizing.md",
+    "html-course/FlexBox.md",
+    "html-course/Elemento ancora.md",
+    "html-course/CSS class.md",
+    "html-course/Redirecinamento com a href.md",
+    "html-course/img/Pasted image 20250720123323.png",
+    "html-course/img/Pasted image 20250718165051.png",
+    "git-enviroment/Git cherry-pick e git blame.md",
+    "git-enviroment/Git Flow.md",
+    "html-course/img/Pasted image 20250718122815.png",
+    "git-enviroment/Template de apresentação.md",
+    "html-course/img/3dgifmaker83344.gif",
+    "html-course/style.css",
+    "html-course/img",
+    "html-course/img/Imagem.png",
+    "html-course/index.html",
+    "html-course",
+    "[Hello,.md",
+    "[From.md",
+    "[Google.md",
+    "().md",
+    "git-enviroment/img/Pasted image 20250714133246.png",
+    "git-enviroment/img/Pasted image 20250714132944.png",
+    "git-enviroment/img/Pasted image 20250712173508.png",
+    "git-enviroment/img/Pasted image 20250712163611.png",
+    "git-enviroment/Verificando commits  individualmente.pdf",
+    "git-enviroment/Verificando commits  individualmente.md",
     "git-enviroment/img",
-    "git-enviroment/Git log.md",
-    "git-enviroment",
-    "Git Enviroment/img/Pasted image 20250711145542.png",
-    "Git Enviroment/img/Pasted image 20250711144922.png",
-    "Git Enviroment/img/Pasted image 20250711144143.png",
-    "Git Enviroment/img/Pasted image 20250711143742.png",
-    "Git Enviroment/img/Pasted image 20250711143601.png",
-    "Git Enviroment/Pasted image 20250711143742.png",
-    "Git Enviroment/img",
-    "Git Enviroment/Nova pasta",
-    "Git Enviroment/Git log.md",
-    "Git Enviroment",
-    "Agile-Thinking/Scrum/1 - Scrum.md",
-    "Agile-Thinking/Scrum/Product Owner.md",
-    "Agile-Thinking/Scrum/Sprint.md",
-    "Agile-Thinking/Kanban.md",
-    "Agile-Thinking/Scrum/Time de desenvolvimento.md",
-    "Agile-Thinking/Scrum/Sprint Review and Retrospective.md",
-    "Agile-Thinking/Scrum/Sprint Planning.md",
-    "Agile-Thinking/Scrum/Scrum Master.md",
-    "Agile-Thinking/Scrum/Product Backlog.md",
-    "Java/Java content.md",
-    "Agile-Thinking/Scrum",
-    "Angular/Roadmap Angular.md",
-    "Angular",
-    "Java/AulaPoo5b/app/bin/main/com/example/AulaPoo5b/contaBanco.class",
-    "Java/AulaPoo5b/app/bin/main/com/example/AulaPoo5b/App.class",
-    "Java/AulaPoo5b/app/bin/main/com/example",
-    "Java/0 - Roadmap Java Learning.md",
-    "Java/Métodos Especiais.md",
-    "Java/Poo - Classes.md",
-    "Java/Herança.md",
-    "Java/Encapsulamento na Programacao Orientada a Objetos (POO).md",
-    "[Herança.md",
-    "Java/4 - Programação Orientada a Objetos (POO) em Java.md",
-    "Java/setAndGetTemplate.md",
-    "Java/Encapsulamento na Programacao Orientada a Objetos (POO).md",
-    "Programa-Start-Capgemini/README.md",
-    "Java/Tipos primitivos.md"
+    "git-enviroment/Git stash.pdf",
+    "git-enviroment/Git tag.md",
+    "git-enviroment/Git stash.md",
+    "git-enviroment/Git restore.md",
+    "git-enviroment/Git rebase.md",
+    "git-enviroment/Git merge.md",
+    "git-enviroment/Git log e parâmetros.md",
+    "git-enviroment/Git log e parâmetros.pdf",
+    "git-enviroment/Git diff.md",
+    "git-enviroment/Git diff.pdf",
+    "git-enviroment/Git branch.md",
+    "git-enviroment"
   ]
 }

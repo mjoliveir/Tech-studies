@@ -4,16 +4,16 @@
   "startJupyterAuto": true,
   "jupyterEnvType": "lab",
   "useSimpleMode": true,
-  "deleteCheckpoints": false,
-  "moveCheckpointsToTrash": true,
-  "checkpointsFolder": "",
-  "updatePopup": true,
   "displayServerRibbonIcon": true,
   "useStatusNotices": true,
+  "jupyterTimeoutMs": 30000,
+  "debugConsole": false,
   "displayFileRibbonIcon": true,
   "displayFolderContextMenuItem": true,
   "openCreatedFileMode": "current-tab",
-  "jupyterTimeoutMs": 30000,
-  "debugConsole": false,
-  "knownVersion": ""
+  "updatePopup": true,
+  "knownVersion": "0.6.2-beta",
+  "deleteCheckpoints": false,
+  "moveCheckpointsToTrash": true,
+  "checkpointsFolder": ""
 }
