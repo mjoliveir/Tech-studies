@@ -221,16 +221,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
+      "jupyter:Start Jupyter Server": false,
+      "jupyter:Create Jupyter Notebook": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false,
-      "obsidian42-brat:BRAT": false,
-      "jupyter:Start Jupyter Server": false,
-      "jupyter:Create Jupyter Notebook": false
+      "publish:Publish changes...": false
     }
   },
   "active": "363ec4ee1fa0a3ae",
