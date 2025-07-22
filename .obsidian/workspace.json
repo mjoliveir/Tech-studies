@@ -4,87 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7cd95e28f9b8c991",
+        "id": "9d5650a82864a951",
         "type": "tabs",
         "children": [
           {
-            "id": "9d803f43dea302ef",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "6ba57f445c6638a1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "1ef8165c3fc142c7",
+            "id": "226ef77224132b17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "html-course/Tags em HTML.md",
+                "file": "@media.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tags em HTML"
-            }
-          },
-          {
-            "id": "70baf3f6abf6e66c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Importando fontes no css e html.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Importando fontes no css e html"
-            }
-          },
-          {
-            "id": "a6368565e2cd7d17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git-enviroment/Git restore.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git restore"
-            }
-          },
-          {
-            "id": "363ec4ee1fa0a3ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Variaveis no CSS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Variaveis no CSS"
+              "title": "@media"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,20 +170,30 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "363ec4ee1fa0a3ae",
+  "active": "226ef77224132b17",
   "lastOpenFiles": [
+    "html-course/img/joana-perfil.png",
+    "html-course/img/image_with_transparent_background.png",
+    "html-course/img/assets/joana-perfil.png",
+    "html-course/img/assets/image_with_transparent_background.png",
+    "html-course/img/assets",
+    "html-course/img/style.css",
+    "html-course/img/index.html",
+    "html-course/img/about.html",
+    "Pasted image 20250722111906.png",
+    "@media.md",
+    "Untitled 1.md",
+    "html-course/Tags em HTML.md",
+    "Importando fontes no css e html.md",
     "git-enviroment/Git restore.md",
     "Variaveis no CSS.md",
-    "html-course/img/joana-perfil.png",
+    "Untitled.md",
     "html-course/joana-perfil.png",
     "html-course/about.html",
     "about.html",
     "Estilizando botões no css.md",
     "Pasted image 20250721102738.png",
-    "Importando fontes no css e html.md",
-    "html-course/img/image_with_transparent_background.png",
     "html-course/image_with_transparent_background.png",
-    "html-course/Tags em HTML.md",
     "html-course/Tag semantica.md",
     "html-course/Reset CSS.md",
     "html-course/Height e box sizing.md",
@@ -260,26 +207,16 @@
     "git-enviroment/Git Flow.md",
     "html-course/img/Pasted image 20250718122815.png",
     "git-enviroment/Template de apresentação.md",
-    "html-course/img/3dgifmaker83344.gif",
     "html-course/style.css",
     "html-course/img",
-    "html-course/img/Imagem.png",
     "html-course/index.html",
     "html-course",
     "[Hello,.md",
     "[From.md",
     "[Google.md",
     "().md",
-    "git-enviroment/Verificando commits  individualmente.pdf",
     "git-enviroment/Verificando commits  individualmente.md",
-    "git-enviroment/img",
-    "git-enviroment/Git stash.pdf",
     "git-enviroment/Git tag.md",
-    "git-enviroment/Git stash.md",
-    "git-enviroment/Git rebase.md",
-    "git-enviroment/Git merge.md",
-    "git-enviroment/Git log e parâmetros.md",
-    "git-enviroment/Git log e parâmetros.pdf",
-    "git-enviroment/Git diff.md"
+    "git-enviroment/Git stash.md"
   ]
 }
