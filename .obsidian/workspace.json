@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@media.md",
+                "file": "data/Deque.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@media"
+              "title": "Deque"
+            }
+          },
+          {
+            "id": "91cfbf7fbe15df87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data/Deque.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deque"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,8 +185,26 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "226ef77224132b17",
+  "active": "dc3e805250a07018",
   "lastOpenFiles": [
+    "data/img",
+    "data/Fila circular.md",
+    "data/Deque.md",
+    "data/Filas.md",
+    "data/Pilhas.md",
+    "data/Lista.md",
+    "data/img/Pasted image 20250724105237.png",
+    "data/Estrutura de dados.md",
+    "data/img/Pasted image 20250724104038.png",
+    "data/img/Pasted image 20250724103401.png",
+    "data",
+    "Data",
+    "html-course/@media.md",
+    "Variaveis no CSS 1.md",
+    "html-course/Estilizando botões no css.md",
+    "html-course/Variaveis no CSS.md",
+    "html-course/Importando fontes no css e html.md",
+    "Untitled 1.md",
     "html-course/img/joana-perfil.png",
     "html-course/img/image_with_transparent_background.png",
     "html-course/img/assets/joana-perfil.png",
@@ -180,20 +213,13 @@
     "html-course/img/style.css",
     "html-course/img/index.html",
     "html-course/img/about.html",
-    "Pasted image 20250722111906.png",
-    "@media.md",
-    "Untitled 1.md",
+    "html-course/img/Pasted image 20250722111906.png",
     "html-course/Tags em HTML.md",
-    "Importando fontes no css e html.md",
     "git-enviroment/Git restore.md",
-    "Variaveis no CSS.md",
-    "Untitled.md",
     "html-course/joana-perfil.png",
     "html-course/about.html",
     "about.html",
-    "Estilizando botões no css.md",
-    "Pasted image 20250721102738.png",
-    "html-course/image_with_transparent_background.png",
+    "html-course/img/Pasted image 20250721102738.png",
     "html-course/Tag semantica.md",
     "html-course/Reset CSS.md",
     "html-course/Height e box sizing.md",
@@ -201,22 +227,11 @@
     "html-course/Elemento ancora.md",
     "html-course/CSS class.md",
     "html-course/Redirecinamento com a href.md",
-    "html-course/img/Pasted image 20250720123323.png",
-    "html-course/img/Pasted image 20250718165051.png",
     "git-enviroment/Git cherry-pick e git blame.md",
     "git-enviroment/Git Flow.md",
-    "html-course/img/Pasted image 20250718122815.png",
     "git-enviroment/Template de apresentação.md",
     "html-course/style.css",
     "html-course/img",
-    "html-course/index.html",
-    "html-course",
-    "[Hello,.md",
-    "[From.md",
-    "[Google.md",
-    "().md",
-    "git-enviroment/Verificando commits  individualmente.md",
-    "git-enviroment/Git tag.md",
-    "git-enviroment/Git stash.md"
+    "[Hello,.md"
   ]
 }
