@@ -4,39 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "9d5650a82864a951",
+        "id": "21204766a96963a1",
         "type": "tabs",
         "children": [
           {
-            "id": "226ef77224132b17",
+            "id": "7052bf71b0f4865f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Deque.md",
+                "file": "Parâmetros.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deque"
+              "title": "Parâmetros"
             }
           },
           {
-            "id": "91cfbf7fbe15df87",
+            "id": "9b207f3bf4676a0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Deque.md",
+                "file": "Função anônima.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deque"
+              "title": "Função anônima"
+            }
+          },
+          {
+            "id": "a3eb6145486e0b4e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "5fbcb557bc0fce00",
+            "type": "leaf",
+            "state": {
+              "type": "jupyter-view",
+              "state": {
+                "file": "Java/swith-caseTemplate.ipynb"
+              },
+              "icon": "none",
+              "title": "swith-caseTemplate.ipynb"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -185,18 +207,37 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "dc3e805250a07018",
+  "active": "5fbcb557bc0fce00",
   "lastOpenFiles": [
+    "operador NOT em JS.md",
+    "JavaScript/let e prompt.md",
+    "JavaScript/Parâmetros.md",
+    "JavaScript/Função anônima.md",
+    "JavaScript/img/Pasted image 20250728154133.png",
+    "JavaScript/Referencias.md",
+    "JavaScript/Trabalhando com listas de elementos em JS.md",
+    "JavaScript/Buscando elementos em JS.md",
+    "Template String.md",
+    "JavaScript/img/Pasted image 20250728120646.png",
+    "JavaScript/img/Pasted image 20250728115628.png",
+    "JavaScript/img/Pasted image 20250728115404.png",
+    "data/Deque.md",
+    "JavaScript/onclick.md",
+    "JavaScript/Integrando JS com HTML.md",
+    "JavaScript/img/Pasted image 20250728103341.png",
+    "JavaScript/img/Pasted image 20250728100552.png",
+    "JavaScript/img/Pasted image 20250728100144.png",
+    "JavaScript/img/Pasted image 20250725142055.png",
+    "JavaScript/img/Pasted image 20250725141624.png",
+    "JavaScript/img/Pasted image 20250725140138.png",
+    "JavaScript/img",
+    "JavaScript",
     "data/img",
     "data/Fila circular.md",
-    "data/Deque.md",
     "data/Filas.md",
     "data/Pilhas.md",
     "data/Lista.md",
-    "data/img/Pasted image 20250724105237.png",
     "data/Estrutura de dados.md",
-    "data/img/Pasted image 20250724104038.png",
-    "data/img/Pasted image 20250724103401.png",
     "data",
     "Data",
     "html-course/@media.md",
@@ -205,33 +246,14 @@
     "html-course/Variaveis no CSS.md",
     "html-course/Importando fontes no css e html.md",
     "Untitled 1.md",
-    "html-course/img/joana-perfil.png",
-    "html-course/img/image_with_transparent_background.png",
-    "html-course/img/assets/joana-perfil.png",
-    "html-course/img/assets/image_with_transparent_background.png",
     "html-course/img/assets",
     "html-course/img/style.css",
     "html-course/img/index.html",
     "html-course/img/about.html",
-    "html-course/img/Pasted image 20250722111906.png",
     "html-course/Tags em HTML.md",
     "git-enviroment/Git restore.md",
-    "html-course/joana-perfil.png",
     "html-course/about.html",
-    "about.html",
-    "html-course/img/Pasted image 20250721102738.png",
     "html-course/Tag semantica.md",
-    "html-course/Reset CSS.md",
-    "html-course/Height e box sizing.md",
-    "html-course/FlexBox.md",
-    "html-course/Elemento ancora.md",
-    "html-course/CSS class.md",
-    "html-course/Redirecinamento com a href.md",
-    "git-enviroment/Git cherry-pick e git blame.md",
-    "git-enviroment/Git Flow.md",
-    "git-enviroment/Template de apresentação.md",
-    "html-course/style.css",
-    "html-course/img",
-    "[Hello,.md"
+    "html-course/Reset CSS.md"
   ]
 }
