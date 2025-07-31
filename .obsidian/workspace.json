@@ -8,57 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7052bf71b0f4865f",
+            "id": "2d67d1313cb55304",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parâmetros.md",
+                "file": "JavaScript/operador NOT em JS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parâmetros"
-            }
-          },
-          {
-            "id": "9b207f3bf4676a0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Função anônima.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Função anônima"
-            }
-          },
-          {
-            "id": "a3eb6145486e0b4e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "5fbcb557bc0fce00",
-            "type": "leaf",
-            "state": {
-              "type": "jupyter-view",
-              "state": {
-                "file": "Java/swith-caseTemplate.ipynb"
-              },
-              "icon": "none",
-              "title": "swith-caseTemplate.ipynb"
+              "title": "operador NOT em JS"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,15 +170,17 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "5fbcb557bc0fce00",
+  "active": "dc3e805250a07018",
   "lastOpenFiles": [
-    "operador NOT em JS.md",
-    "JavaScript/let e prompt.md",
-    "JavaScript/Parâmetros.md",
+    "JavaScript/Funções no JS.md",
     "JavaScript/Função anônima.md",
-    "JavaScript/img/Pasted image 20250728154133.png",
+    "JavaScript/Parâmetros.md",
     "JavaScript/Referencias.md",
     "JavaScript/Trabalhando com listas de elementos em JS.md",
+    "JavaScript/operador NOT em JS.md",
+    "Java/swith-caseTemplate.ipynb",
+    "JavaScript/let e prompt.md",
+    "JavaScript/img/Pasted image 20250728154133.png",
     "JavaScript/Buscando elementos em JS.md",
     "Template String.md",
     "JavaScript/img/Pasted image 20250728120646.png",
@@ -251,9 +216,6 @@
     "html-course/img/index.html",
     "html-course/img/about.html",
     "html-course/Tags em HTML.md",
-    "git-enviroment/Git restore.md",
-    "html-course/about.html",
-    "html-course/Tag semantica.md",
-    "html-course/Reset CSS.md"
+    "git-enviroment/Git restore.md"
   ]
 }
