@@ -4,67 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "cf44c446bae24a0e",
+        "id": "ce50dbe0e26afff3",
         "type": "tabs",
         "children": [
           {
-            "id": "376b7e35b428d2e0",
+            "id": "358f4e6a8dda1ed2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/Metodos dos arrays JS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Metodos dos arrays JS"
-            }
-          },
-          {
-            "id": "00b80c6111d4f8b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/Metodos dos arrays JS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Metodos dos arrays JS"
-            }
-          },
-          {
-            "id": "ce6b2e51699f2ea8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/Metodos de objeto.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Metodos de objeto"
-            }
-          },
-          {
-            "id": "b1a9ebe18404a17e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Objetos JS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Objetos JS"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,15 +166,17 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "b1a9ebe18404a17e",
+  "active": "358f4e6a8dda1ed2",
   "lastOpenFiles": [
-    "Objetos JS.md",
+    "JavaScript/indexOf.md",
+    "Untitled.md",
+    "JavaScript/img/Pasted image 20250801133624.png",
+    "JavaScript/Objetos JS.md",
+    "Untitled 1.md",
+    "JavaScript/Metodos dos arrays JS.md",
     "JavaScript/Metodos de objeto.md",
     "Java/Métodos Especiais.md",
-    "JavaScript/Metodos dos arrays JS.md",
-    "JavaScript/indexOf.md",
-    "Pasted image 20250801133824.png",
-    "Pasted image 20250801133624.png",
+    "JavaScript/img/Pasted image 20250801133824.png",
     "JavaScript/Parâmetros.md",
     "JavaScript/Escopo e Uso de `const`, `let` e `var` no JavaScript.md",
     "JavaScript/For of (arrays no js).md",
@@ -252,11 +207,8 @@
     "data/Filas.md",
     "data/Pilhas.md",
     "data/Lista.md",
-    "data/Estrutura de dados.md",
     "data",
     "Data",
-    "html-course/@media.md",
-    "Variaveis no CSS 1.md",
     "html-course/img/assets",
     "html-course/img/style.css",
     "html-course/img/index.html",

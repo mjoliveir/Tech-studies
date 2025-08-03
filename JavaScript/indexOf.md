@@ -13,3 +13,5 @@ if (livros.indexOf(livroProcurado) !== -1) {
 
 Minha solução para o mesmo problema, isso antes de conhecer o comando indexOf:
 ![[Pasted image 20250801133824.png]]
+
+#javascript 
